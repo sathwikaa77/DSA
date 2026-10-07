@@ -1,4 +1,4 @@
-#SELECTION SORTING
+SELECTION SORTING
 a=[23,12,22,45,7,8]
 def selectionsort(a):
     for i in range(len(a)):
@@ -9,4 +9,3 @@ def selectionsort(a):
         a[i],a[min]=a[min],a[i]
     print(a)
 selectionsort(a)
-
