@@ -1,6 +1,6 @@
 DSA Day 8--Strings
 #A string is a sequence of characters
-name="Geethanjali"
+name="Sathwika"
 print(name[0])
 print(name[3])
 print(name[8])
